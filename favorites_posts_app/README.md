@@ -38,30 +38,6 @@ If `flutter create .` asks about existing files, keep the existing `lib/`, `pubs
 6. Reopen the app and open Favorites.
 7. Confirm the same favorites are still present.
 
-## Screenshots to attach
-
-Add screenshots below after testing:
-
-### Posts screen with outlined stars
-
-_Insert screenshot here._
-
-### Posts screen with a filled favorite star
-
-_Insert screenshot here._
-
-### Favorites screen with saved posts
-
-_Insert screenshot here._
-
-### Empty favorites screen
-
-_Insert screenshot here._
-
-### Favorites after reopening in airplane mode
-
-_Insert screenshot here._
-
 ## Main files
 
 ```text
